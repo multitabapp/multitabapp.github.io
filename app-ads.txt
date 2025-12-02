@@ -1,0 +1,14 @@
+# Google AdMob (필수)
+google.com, pub-8385569018867171, DIRECT, f08c47fec0942fa0
+
+# InMobi
+inmobi.com, fbde137325a4421fbc11e25234c2b636, DIRECT, 83e75b9327638c10
+
+# Vungle (Liftoff)
+vungle.com, 690721f05e467067b8147afd, DIRECT, 7db424f99745e11f
+
+# Meta Audience Network (Facebook)
+facebook.com, 1806696456111286, DIRECT, c3e297f3b600a061
+
+# Unity Ads
+unity.com, 14569688267647, DIRECT, 6d309d94186f7b10
